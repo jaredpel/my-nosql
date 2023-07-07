@@ -8,7 +8,3 @@ the steps to follow:
 - after that you can start setting up the insomnia GET, PUT, DELETE , POST
 - then set up 4 folders for users, friends, thoughts, reactions
 - all good to go once you know how to do it
-
-# here is the video 
-
-
